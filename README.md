@@ -1,7 +1,14 @@
 # baraton
 
+## Project Requirenments
+<ul>
+    <li><a href="https://nodejs.org/es/download/"> Node + NPM </a></li>
+    <li><a href="https://cli.vuejs.org/guide/installation.html"> Vue CLI </a></li>
+</ul>
+
 ## Project setup
 ```
+cd project_directory/
 npm install
 ```
 
