@@ -16,6 +16,10 @@ npm install
 ```
 npm run serve
 ```
+## after compiling open in browser: 
+```
+localhost:8080 to access project
+```
 
 ### Compiles and minifies for production
 ```
